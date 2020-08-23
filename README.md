@@ -1,4 +1,19 @@
-### Hi there 👋
+<h1 align="center">👋 Hi, I'm Ayman 💾</h3>
+
+<p align="center">
+  <a href="https://ayman-faisal.github.io/" target="_blank"><img src="https://img.shields.io/badge/-website-272822?style=for-the-badge&logo=write.as&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/ayman-faisal/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-2867b2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/_aymanfaisal" target="_blank"><img src="https://img.shields.io/badge/-twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+</p>
+
+### About Me
+💼 I’m currently a Software Engineer Intern at [Moz](https://moz.com).
+<br>
+📕 I study Computer Science at [Simon Fraser Univeristy](https://sfu.ca). 
+<br>
+💻 My interests include Data Science and Programming Languages.
+<br>
+⚡ I also love to read books and play board games.
 
 <!--
 **ayman-faisal/ayman-faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

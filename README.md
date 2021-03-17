@@ -7,7 +7,7 @@
 </p>
 
 ### About Me
-💼 I’m currently a Software Engineer Intern at [Moz](https://moz.com).
+💼 I am former Software Engineer Intern at [Moz](https://moz.com).
 <br>
 📕 I study Computer Science at [Simon Fraser Univeristy](https://sfu.ca). 
 <br>

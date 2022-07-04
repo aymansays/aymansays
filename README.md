@@ -7,9 +7,9 @@
 </p>
 
 ### About Me
-💼 I am a former Software Developer Intern at [Moz](https://moz.com).
+📕 I am a Computer Science graduate from [Simon Fraser Univeristy](https://sfu.ca). 
 <br>
-📕 I study Computer Science at [Simon Fraser Univeristy](https://sfu.ca). 
+💼 I interned as a Software Developer at [Moz](https://moz.com).
 <br>
 💻 My interests include Data Science and Programming Languages.
 <br>

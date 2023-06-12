@@ -7,13 +7,13 @@
 </p>
 
 ### About Me
-📕 I am a Computer Science graduate from [Simon Fraser Univeristy](https://sfu.ca). 
+💼 I work as a BizOps Engineer at [Mastercard](https://mastercard.com).
 <br>
-💼 I interned as a Software Developer at [Moz](https://moz.com).
+📕 I am a Computer Science graduate from [Simon Fraser Univeristy](https://sfu.ca).
 <br>
 💻 My interests include Data Science and Programming Languages.
 <br>
-⚡ I also love to read books and play board games.
+⚡ I also enjoy traveling and playing board games.
 
 <!--
 **ayman-faisal/ayman-faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

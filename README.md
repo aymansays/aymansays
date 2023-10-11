@@ -10,7 +10,7 @@
 <br>
 📕 I studied Computer Science at [Simon Fraser Univeristy](https://sfu.ca).
 <br>
-💻 My interests include Data Science and Programming Languages.
+💻 My interests include data science and programming languages.
 <br>
 ⚡ I also enjoy traveling and exercising.
 

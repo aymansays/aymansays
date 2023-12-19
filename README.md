@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Ayman 💻</h3>
 
 <p align="center">
-  <a href="https://aymansays.github.io/" target="_blank"><img src="https://img.shields.io/badge/-website-272822?style=for-the-badge&logo=write.as&logoColor=white" alt="Website"></a>
+  <a href="https://aymansays.github.io/" target="_blank"><img src="https://img.shields.io/badge/-website-272822?style=for-the-badge&logo=wikipedia&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/ayman-faisal/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-2867b2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
 </p>
 

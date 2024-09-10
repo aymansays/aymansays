@@ -6,7 +6,7 @@
 </p>
 
 ### About Me
-💼 I work as a BizOps Engineer at [Mastercard](https://mastercard.com).
+💼 I work as a Site Reliability Engineer at [Mastercard](https://mastercard.com).
 <br>
 📕 I studied Computer Science at [Simon Fraser Univeristy](https://sfu.ca).
 <br>
